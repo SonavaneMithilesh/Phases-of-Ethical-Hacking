@@ -40,8 +40,6 @@ In this Repository documents contains the 2nd week's project of Cybersecurity In
 theHarvester -d microsoft.com -l 1000 -b baidu
 ```
 
-**Screenshot:** `Screenshot 2026-09-18 183608`
-
 **Task 2:** In Task 2, we executed a broader search on microsoft.com.
 
 **Command:**
@@ -60,15 +58,9 @@ starting the harvester
 
 Open Windows Command Prompt, type the command `ipconfig` and hit Enter. By doing this, we can find our local IP address, subnet mask, and default gateway.
 
-**Screenshot:** `Screenshot 2026-09-18 191926`
-
 Open Zenmap, enter the local subnet range, select the **Ping scan** profile, and start the scan. Zenmap will scan the local network and provide the available hosts and open ports on the network.
 
-**Screenshot:** `Screenshot 2026-09-18 192245`
-
 Locate the **Topology** tab and head to **Fisheye**. In this tab, we can find the topology of the network.
-
-**Screenshot:** `Screenshot 2026-09-18 192738`
 
 ## 🚩 Challenges Encountered and Solutions
 
